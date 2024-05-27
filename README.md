@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Arthur. I'm a software developer at [CWI](https://cwi.com.br/), I work mainly in the back-end but sometimes I try my hand at the front-end. I studied Course Technician of Computer Science with a focus on systems development at IFSUL in Sapucaia do Sul. I'm now studying Computer Science at Unisinos. 
+My name is Arthur. I'm a software developer at OLX Brasil, I work mainly in the back-end but sometimes I try my hand at the front-end. I studied Course Technician of Computer Science with a focus on systems development at IFSUL in Sapucaia do Sul. I'm now studying Computer Science at Unisinos. 
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/arthur-kist-juchem-6274aa17b/">
